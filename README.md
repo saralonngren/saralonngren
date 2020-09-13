@@ -7,7 +7,7 @@ I'm a backend developer from Brazil! 🇧🇷 I currently work at [Agenda Edu](h
 
 I'm always open for a chat, so feel free to reach out to me! 🖖🏻
 
-Check it out my [blog](https://saratalks.herokuapp.com/) :)
+Check it out my [blog](https://saratalks.herokuapp.com/) (PT-br) :)
 
 [![linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saralonngren)
 [![gmail](https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:saralonngren@gmail.com)
