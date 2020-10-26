@@ -1,7 +1,7 @@
 ### Hey, I'm Sara! :)
 Welcome to my GitHub! 
 
-I'm a backend developer from Brazil! 🇧🇷 I currently work at [Agenda Edu](https://agendaedu.com/) using Ruby on Rails and React.js!
+I'm a backend developer from Brazil! 🇧🇷 I currently work using Ruby on Rails!
 
 🍵 Tea addicted, interested in education, games, minimalism, innovation, technology, people and design. *(A lot of things, isn't it?)*
 
