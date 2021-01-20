@@ -1,11 +1,11 @@
 ### Hey, I'm Sara! :)
 Welcome to my GitHub! 
 
-I'm a backend developer from Brazil! 🇧🇷 I currently work using Ruby on Rails!
+I'm a backend developer from Brazil! 🇧🇷 I'm currently working with Ruby on Rails!
 
 🍵 Tea addicted, interested in education, games, minimalism, innovation, technology, people and design. *(A lot of things, isn't it?)*
 
-I'm always open for a chat, so feel free to reach out to me! 🖖🏻
+I'm always open for a chat, so feel free to reach me out! 🖖🏻
 
 Check it out my [blog](https://saralonngren.github.io/) (PT-br) :)
 
