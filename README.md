@@ -1,7 +1,7 @@
 ### Hey, I'm Sara! :)
 Welcome to my GitHub! 
 
-I'm a backend developer from Brazil! 🇧🇷 I'm currently working with Ruby on Rails!
+I'm a backend developer from Brazil currently working with Ruby on Rails! 🇧🇷
 
 🍵 Tea addicted, interested in education, games, minimalism, innovation, technology, people and design. *(A lot of things, isn't it?)*
 
